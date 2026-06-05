@@ -15,12 +15,12 @@ Dưới đây là các kỹ năng số và tư duy ứng dụng AI mình đã r�
 
 | STT | Nhiệm vụ kỹ năng số | File Minh chứng (PDF/Image) |
 | :---: | :--- | :--- |
-| **1** | **Quản lý tệp và thư mục**<br>*(Thiết lập cây thư mục logic, quy tắc đặt tên file)* | [Chèn link vào đây] |
-| **2** | **Tìm kiếm & đánh giá thông tin học thuật**<br>*(Sử dụng toán tử nâng cao, phân tích tài liệu)* | [Chèn link vào đây] |
-| **3** | **Viết Prompt hiệu quả**<br>*(So sánh prompt thô và prompt kỹ thuật)* | [Chèn link vào đây] |
-| **4** | **Hợp tác trực tuyến (Dự án nhóm)**<br>*(Quản lý tiến độ, điều phối công việc)* | [Chèn link vào đây] |
-| **5** | **Sáng tạo nội dung với AI**<br>*(Quy trình sản xuất nội dung số)* | [Chèn link vào đây] |
-| **6** | **AI có trách nhiệm**<br>*(Bộ nguyên tắc đạo đức cá nhân)* | [Chèn link vào đây] |
+| **1** | **Quản lý tệp và thư mục**<br>*(Thiết lập cây thư mục logic, quy tắc đặt tên file)* | [Xem báo cáo](./1 - Google Tài liệu.pdf) |
+| **2** | **Tìm kiếm & đánh giá thông tin học thuật**<br>*(Sử dụng toán tử nâng cao, phân tích tài liệu)* | [Xem báo cáo](./BÁO CÁO CÁ NHÂN_ KỸ NĂNG SỬ DỤNG CÔNG C...pdf) |
+| **3** | **Viết Prompt hiệu quả**<br>*(So sánh prompt thô và prompt kỹ thuật)* | [Xem báo cáo](./BÁO CÁO_ KỸ NĂNG TÌM KIẾM VÀ ĐÁNH GIÁ THÔNG TIN HỌC THUẬT - Google Tài liệu.pdf) |
+| **4** | **Hợp tác trực tuyến (Dự án nhóm)**<br>*(Quản lý tiến độ, điều phối công việc)* | [Xem báo cáo](./BÁO CÁO_ SỬ DỤNG TRÍ TUỆ NHÂN TẠO CÓ TR...pdf) |
+| **5** | **Sáng tạo nội dung với AI**<br>*(Quy trình sản xuất nội dung số)* | [Xem báo cáo](./BÁO CÁO_ TỔNG QUAN TÀI LIỆU KHOA HỌC BẰ...pdf) |
+| **6** | **AI có trách nhiệm**<br>*(Bộ nguyên tắc đạo đức cá nhân)* | [Xem báo cáo](./BÁO CÁO_ ỨNG DỤNG VÀ ĐÁNH GIÁ CÔNG CỤ A...pdf) |
 
 ---
 
