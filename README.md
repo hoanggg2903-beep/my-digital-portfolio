@@ -28,3 +28,4 @@ Dưới đây là các kỹ năng số và tư duy ứng dụng AI mình đã r�
 Quá trình xây dựng Portfolio này đánh dấu một bước chuyển đổi tư duy lớn: từ việc coi AI là "máy trả lời" sang việc điều phối nó như một trợ lý nghiên cứu đắc lực. 
 
 Thông qua các dự án, mình nhận ra rằng dù thuật toán có mạnh đến đâu, cốt lõi của một kỹ sư công nghệ vẫn nằm ở **Kiến thức chuyên môn (Domain Knowledge)**. Đó là nền tảng vững chắc nhất để mình có thể kiểm soát "ảo giác" của AI, tinh chỉnh đầu ra và ứng dụng công nghệ một cách minh bạch, an toàn và liêm chính.
+.
